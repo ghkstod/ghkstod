@@ -2,7 +2,7 @@
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=ghkstod)](https://github.com/ghkstod)
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=ghkstod&show_icons=true&theme=radical)](https://github.com/ghkstod)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghkstod)](https://github.com/ghkstod/github-readme-stats)]
 
